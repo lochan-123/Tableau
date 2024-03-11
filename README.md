@@ -1,6 +1,6 @@
 # Tableau
 
-![Tableau visualizations]([image link](https://www.whizlabs.com/blog/wp-content/uploads/2020/06/tableau-tutorial.png))
+![Tableau visualizations](https://www.whizlabs.com/blog/wp-content/uploads/2020/06/tableau-tutorial.png)
 
 # Data Visualization Classworks & Assignments
 
